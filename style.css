@@ -1,0 +1,84 @@
+.ali-nav-icon {
+    width: 186px !important;
+    height: 36px !important;
+}
+
+.ali-main-nav {
+    display: flex !important;
+    /* justify-content: space-between !important; */
+    /* align-items: center !important; */
+    margin-left: 50px !important;
+}
+
+.ali-main-nav-name {
+    margin-left: 30px !important;
+}
+
+.ali-main-nav-name-main {
+    margin-left: 150px !important;
+}
+
+/* ------------------------------------------------------Heading-------------------------- */
+
+.ali-heading-menu {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+
+.ali-heading{
+    margin-left: 200px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    color: blue;
+    .ali-heading-br{
+        color: blueviolet;
+    }
+}
+
+.paragraph {
+    margin-left: 200px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: justify;
+    line-height: 30px;
+    color: #000000;
+    width: 700px;
+}
+
+/* ----------------------------------------------------Search--------------------------------- */
+.ali-search-container {
+    margin-left: 200px;
+    width:1500px;
+    display: inline-flex;
+    margin-top: 15px;
+}
+
+.search-icon {
+    margin: 0px;
+}
+
+.ali-search-input {
+    width: 418px;
+    padding: 5px;
+}
+
+.ali-search-icon {
+    width: 30px !important;
+    padding: 5px !important;
+    height: 40px !important;
+    color: blue;
+    background-color: black;
+}
+
+.ali-search-button {
+    border-radius: 50px;
+    background-color: blue;
+    margin-left: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color:white;
+    width: 130px;
+    padding: 5px;
+}
